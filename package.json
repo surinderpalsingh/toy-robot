@@ -1,0 +1,13 @@
+{
+  "name": "Test",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha",
+    "start": "node app.js"
+  },
+  "devDependencies": {
+    "mocha": "^2.4.5",
+    "chai": "^3.5.0"
+  }
+}
